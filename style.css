@@ -230,7 +230,7 @@ body{
     align-items: center;
 }
 
-.section-3-container{
+/* .section-3-container{
     width: 700px;
     height: 70px;
     padding: 35px 40px;
@@ -243,7 +243,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 50px;
-}
+} */
 
 .header-text{
     font-weight: bolder;
