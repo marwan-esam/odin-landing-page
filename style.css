@@ -257,5 +257,8 @@ body{
     background-color: #000000;
     padding: 30px;
     text-align: center;
+}
+
+.footer a{
     color: white;
 }
